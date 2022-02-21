@@ -1,7 +1,7 @@
 h1 {
   font-family: Arial, "Times New Roman";
   font-size: 40px;
-  font-style: none;
+  font-style: Serif;
   font-weight: 200;
   text-align: center;
   text-decoration: none;
@@ -9,13 +9,13 @@ h1 {
   text-transform: none;
   color: #000000;
   word-spacing: 2px;
-  line-height: none;
+  line-height: 32px;
 }
 
 h2 {
   font-family: Arial, "Times New Roman";
   font-size: 30px;
-  font-style: none;
+  font-style: Serif;
   font-weight: 200;
   text-align: center;
   text-decoration: none;
@@ -23,21 +23,21 @@ h2 {
   text-transform: none;
   color: #000000;
   word-spacing: 2px;
-  line-height: none;
+  line-height: 32px;
 }
 
 h3 {
   font-family: Arial, "Times New Roman";
   font-size: 40px;
-  font-style: none;
+  font-style: Serif;
   font-weight: 200;
   text-align: center;
   text-decoration: none;
   text-indent: 30px;
   text-transform: none;
-  color: ;
+  color: #000000;
   word-spacing: 2px;
-  line-height: none;
+  line-height: 32px;
 }
 
 p {
