@@ -1,7 +1,7 @@
 h1 {
   font-family: Arial, "Times New Roman";
   font-size: 40px;
-  font-style: Bold;
+  font-style: normal;
   font-weight: 200;
   text-align: center;
   text-decoration: none;
@@ -15,7 +15,7 @@ h1 {
 h2 {
   font-family: Arial, "Times New Roman";
   font-size: 30px;
-  font-style: Bold;
+  font-style: normal;
   font-weight: 200;
   text-align: center;
   text-decoration: none;
@@ -29,7 +29,7 @@ h2 {
 h3 {
   font-family: Arial, "Times New Roman";
   font-size: 40px;
-  font-style: Bold;
+  font-style: normal;
   font-weight: 200;
   text-align: center;
   text-decoration: none;
