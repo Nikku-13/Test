@@ -1,3 +1,29 @@
+.header {
+  background-color: #000000;
+  text-align: center;
+  padding: 20xp;
+}
+
+body {
+  margin: 10px;
+  background-color: darkred;
+  font-family: Verdana, Arial, "sans-serif";
+  width: 1450px;
+  border: 10px;
+  padding: 10px;
+}
+
+div {
+  color: green;
+  background-color: black;
+  width: 1450px;
+  border: 10px;
+  padding: 10px;
+  margin: 10px;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
 h1 {
   font-family: Arial, "Times New Roman";
   font-size: 40px;
@@ -8,6 +34,7 @@ h1 {
   text-indent: 30px;
   text-transform: none;
   color: #000000;
+  background-color: AliceBlue;
   word-spacing: 2px;
   line-height: 32px;
 }
@@ -22,13 +49,14 @@ h2 {
   text-indent: 30px;
   text-transform: none;
   color: #000000;
+  background-color: lightgreen;
   word-spacing: 2px;
   line-height: 32px;
 }
 
 h3 {
   font-family: Arial, "Times New Roman";
-  font-size: 40px;
+  font-size: 10px;
   font-style: normal;
   font-weight: 200;
   text-align: center;
@@ -36,19 +64,27 @@ h3 {
   text-indent: 30px;
   text-transform: none;
   color: #000000;
+  background-color: lightgreen;
   word-spacing: 2px;
   line-height: 32px;
 }
 
 p {
+ font-family: verdana;
  font-size: 22px;
  line-height: 30px;
  text-indent: 20px;
  text-align: center;
+ background-color: #FFEBCD;
 }
 
 a {
  text-decoration: underline;
+ background-color: #7FFFD4;
 }
 
-
+.footer {
+  background-color: #000000;
+  text-align: center;
+  padding: 10px;
+}
