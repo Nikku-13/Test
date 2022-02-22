@@ -14,14 +14,11 @@ body {
 }
 
 div {
-  color: green;
   background-color: black;
   width: 1450px;
   border: 10px;
   padding: 10px;
   margin: 10px;
-  flex-wrap: wrap;
-  align-content: center;
 }
 
 h1 {
@@ -80,7 +77,6 @@ p {
 
 a {
  text-decoration: underline;
- background-color: #7FFFD4;
 }
 
 .footer {
